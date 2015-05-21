@@ -9,3 +9,4 @@ data <- read.csv("hospital-data.csv")
 head(data)
 
 hist(data$ZIP.Code)
+
