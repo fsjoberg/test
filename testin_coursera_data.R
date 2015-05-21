@@ -10,3 +10,5 @@ head(data)
 
 hist(data$ZIP.Code)
 
+length(unique(data$State))
+table(data$State)
